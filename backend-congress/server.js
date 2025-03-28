@@ -89,7 +89,7 @@ app.get('/api/logo/file', (req, res) => {
   });
 });
 
-const PORT = process.env.PORT || 8080;
+const PORT = process.env.PORT || 8087;
 const HOST = '0.0.0.0';
 
 app.listen(PORT, HOST, () => {
