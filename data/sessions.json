@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Ouverture du congrès",
+    "description": "Cérémonie d'ouverture du congrès AFRAN 2025 avec discours de bienvenue",
+    "day": 1,
+    "startTime": "09:00",
+    "endTime": "09:30",
+    "location": "Auditorium principal",
+    "speakers": ["speaker1", "speaker2"],
+    "track": "Plénière",
+    "type": "keynote",
+    "isFeatured": true
+  },
+  {
+    "title": "L'IA dans la recherche scientifique",
+    "description": "Comment l'intelligence artificielle transforme la recherche scientifique franco-africaine",
+    "day": 1,
+    "startTime": "10:00",
+    "endTime": "11:30",
+    "location": "Salle A",
+    "speakers": ["speaker3", "speaker4"],
+    "track": "Technologie",
+    "type": "panel",
+    "isFeatured": true
+  },
+  {
+    "title": "Changement climatique et solutions durables",
+    "description": "Présentation des recherches sur le changement climatique et les solutions durables en Afrique",
+    "day": 1,
+    "startTime": "13:00",
+    "endTime": "14:30",
+    "location": "Salle B",
+    "speakers": ["speaker5", "speaker6"],
+    "track": "Environnement",
+    "type": "workshop",
+    "isFeatured": false
+  },
+  {
+    "title": "Cocktail de réseautage",
+    "description": "Occasion de faire du réseautage avec les intervenants et les participants",
+    "day": 1,
+    "startTime": "18:00",
+    "endTime": "20:00",
+    "location": "Jardin",
+    "speakers": [],
+    "track": "Social",
+    "type": "networking",
+    "isFeatured": false
+  },
+  {
+    "title": "La santé publique en Afrique",
+    "description": "État des lieux et perspectives d'amélioration des systèmes de santé",
+    "day": 2,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "location": "Auditorium principal",
+    "speakers": ["speaker7", "speaker8"],
+    "track": "Santé",
+    "type": "keynote",
+    "isFeatured": true
+  },
+  {
+    "title": "Éducation et innovation",
+    "description": "Comment l'innovation peut transformer l'éducation en Afrique",
+    "day": 2,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "location": "Salle C",
+    "speakers": ["speaker9", "speaker10"],
+    "track": "Éducation",
+    "type": "panel",
+    "isFeatured": false
+  },
+  {
+    "title": "Dîner de gala",
+    "description": "Dîner de gala avec remise de prix pour les meilleurs travaux de recherche",
+    "day": 2,
+    "startTime": "19:00",
+    "endTime": "22:00",
+    "location": "Grand Hall",
+    "speakers": ["speaker1"],
+    "track": "Social",
+    "type": "networking",
+    "isFeatured": true
+  },
+  {
+    "title": "Coopération scientifique France-Afrique",
+    "description": "Bilan et perspectives de la coopération scientifique entre la France et l'Afrique",
+    "day": 3,
+    "startTime": "09:00",
+    "endTime": "10:30",
+    "location": "Auditorium principal",
+    "speakers": ["speaker11", "speaker12"],
+    "track": "Plénière",
+    "type": "keynote",
+    "isFeatured": true
+  },
+  {
+    "title": "Financement de la recherche",
+    "description": "Comment obtenir des financements pour vos projets de recherche",
+    "day": 3,
+    "startTime": "11:00",
+    "endTime": "12:30",
+    "location": "Salle A",
+    "speakers": ["speaker13", "speaker14"],
+    "track": "Développement",
+    "type": "workshop",
+    "isFeatured": false
+  },
+  {
+    "title": "Clôture du congrès",
+    "description": "Cérémonie de clôture avec résumé des discussions et perspectives",
+    "day": 3,
+    "startTime": "16:00",
+    "endTime": "17:00",
+    "location": "Auditorium principal",
+    "speakers": ["speaker1", "speaker2"],
+    "track": "Plénière",
+    "type": "keynote",
+    "isFeatured": true
+  }
+] 

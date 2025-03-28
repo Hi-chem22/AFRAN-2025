@@ -1,0 +1,122 @@
+SPEAKERS
+
+Name: Dr. Ahmed Benali
+Country: Morocco
+Bio: Professor of Neurology at Rabat University with extensive experience in neurological disorders and cognitive research. Dr. Benali has published over 50 papers in international journals.
+Image: ahmed_benali.jpg
+
+Name: Pr. Sophie Martin
+Country: France
+Bio: Leading researcher in cardiology at Paris-Sorbonne University. Her work on innovative treatment methods has been internationally recognized.
+Image: sophie_martin.jpg
+
+Name: Dr. Mourad Karim
+Country: Algeria
+Bio: Specialist in medical imaging and radiology from Algiers University Hospital. His research focuses on early detection techniques for various conditions.
+Image: mourad_karim.jpg
+
+Name: Dr. Fatima Zohra
+Country: Tunisia
+Bio: Expert in public health and epidemiology with experience in managing health crises across North Africa.
+Image: fatima_zohra.jpg
+
+Name: Dr. Emmanuel Nkosi
+Country: South Africa
+Bio: Renowned orthopedic surgeon specializing in sports medicine and rehabilitation techniques.
+Image: emmanuel_nkosi.jpg
+
+SESSIONS
+
+Title: Opening Ceremony: AFRAN 2025
+Day: 1
+Start: 09:00
+End: 10:00
+Description: Welcome to the 2025 African Medical Research and Applications Network Congress. This session will introduce the themes and objectives of this year's congress.
+Room: Grand Ballroom
+Speaker: Dr. Ahmed Benali
+Speaker: Pr. Sophie Martin
+
+Title: Advances in Neurological Research
+Day: 1
+Start: 10:30
+End: 12:30
+Description: This session will cover the latest findings in neurological research relevant to the African context.
+Room: Salle A
+Speaker: Dr. Ahmed Benali
+Subsession: Cognitive Disorders in Rural Areas
+SubDescription: Examination of cognitive disorders prevalent in rural African communities
+SubSpeaker: Dr. Ahmed Benali
+Subsession: New Diagnostic Methods
+SubDescription: Innovative approaches to neurological diagnostics with limited resources
+SubSpeaker: Dr. Emmanuel Nkosi
+
+Title: Cardiology Panel: African Perspectives
+Day: 1
+Start: 14:00
+End: 16:00
+Description: A comprehensive overview of cardiological challenges specific to African populations and innovative approaches to treatment.
+Room: Salle B
+Speaker: Pr. Sophie Martin
+Speaker: Dr. Mourad Karim
+Subsession: Hypertension Management Strategies
+SubDescription: Evidence-based approaches to hypertension management in resource-limited settings
+SubSpeaker: Pr. Sophie Martin
+Subsession: Cardiac Imaging Technologies
+SubDescription: Application of modern imaging technologies in African healthcare systems
+SubSpeaker: Dr. Mourad Karim
+
+Title: Public Health Symposium
+Day: 2
+Start: 09:00
+End: 11:00
+Description: A discussion of current public health challenges and opportunities in Africa.
+Room: Grand Ballroom
+Speaker: Dr. Fatima Zohra
+Subsession: Pandemic Preparedness
+SubDescription: Strategies for improving pandemic readiness across African nations
+SubSpeaker: Dr. Fatima Zohra
+Subsession: Vaccination Campaigns
+SubDescription: Successful models for widespread vaccination implementation
+SubSpeaker: Dr. Fatima Zohra
+
+Title: Orthopedic Medicine Workshop
+Day: 2
+Start: 13:00
+End: 15:00
+Description: Hands-on workshop covering the latest techniques in orthopedic medicine.
+Room: Salle A
+Speaker: Dr. Emmanuel Nkosi
+Subsession: Sports Injury Treatment
+SubDescription: Advanced techniques for treating common sports injuries
+SubSpeaker: Dr. Emmanuel Nkosi
+Subsession: Rehabilitation Protocols
+SubDescription: Evidence-based rehabilitation protocols for post-surgical recovery
+SubSpeaker: Dr. Emmanuel Nkosi
+
+Title: Closing Session and Future Directions
+Day: 3
+Start: 15:00
+End: 16:30
+Description: Wrap-up of the congress, key takeaways, and plans for future collaboration in African medical research.
+Room: Grand Ballroom
+Speaker: Dr. Ahmed Benali
+Speaker: Dr. Fatima Zohra
+Speaker: Pr. Sophie Martin
+
+ROOMS
+
+Name: Grand Ballroom
+Capacity: 500
+Location: Ground Floor, Main Building
+
+Name: Salle A
+Capacity: 200
+Location: First Floor, East Wing
+
+Name: Salle B
+Capacity: 150
+Location: First Floor, West Wing
+
+Name: Workshop Room
+Capacity: 50
+Location: Second Floor, North Wing 

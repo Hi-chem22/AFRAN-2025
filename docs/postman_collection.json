@@ -1,0 +1,168 @@
+{
+  "info": {
+    "name": "AFRAN Congress API",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Sessions",
+      "item": [
+        {
+          "name": "Get All Sessions",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "http://localhost:8080/api/sessions",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions"]
+            }
+          }
+        },
+        {
+          "name": "Get Session by ID",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "http://localhost:8080/api/sessions/:id",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions", ":id"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "{{sessionId}}",
+                  "description": "The ID of the session to retrieve"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Get Sessions by Day and Room",
+          "request": {
+            "method": "GET",
+            "url": {
+              "raw": "http://localhost:8080/api/sessions/byDayAndRoom?dayId={{dayId}}&roomId={{roomId}}",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions", "byDayAndRoom"],
+              "query": [
+                {
+                  "key": "dayId",
+                  "value": "{{dayId}}",
+                  "description": "The ID of the day to filter by"
+                },
+                {
+                  "key": "roomId",
+                  "value": "{{roomId}}",
+                  "description": "The ID of the room to filter by"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Add New Session",
+          "request": {
+            "method": "POST",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:8080/api/sessions",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions"]
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Session Example\",\n  \"room\": \"Room A\",\n  \"day\": 1,\n  \"startTime\": \"09:00\",\n  \"endTime\": \"10:30\",\n  \"description\": \"Session description\",\n  \"chairpersons\": \"Dr. John Doe, Prof. Jane Smith\",\n  \"subsessionTexts\": [\n    {\n      \"title\": \"Subsession 1\",\n      \"startTime\": \"09:00\",\n      \"endTime\": \"09:45\",\n      \"description\": \"Subsession description\",\n      \"speakerIds\": []\n    },\n    {\n      \"title\": \"Subsession 2\",\n      \"startTime\": \"09:45\",\n      \"endTime\": \"10:30\",\n      \"description\": \"Subsession description\",\n      \"speakerIds\": []\n    }\n  ]\n}"
+            }
+          }
+        },
+        {
+          "name": "Update Session",
+          "request": {
+            "method": "PUT",
+            "header": [
+              {
+                "key": "Content-Type",
+                "value": "application/json"
+              }
+            ],
+            "url": {
+              "raw": "http://localhost:8080/api/sessions/:id",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions", ":id"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "{{sessionId}}",
+                  "description": "The ID of the session to update"
+                }
+              ]
+            },
+            "body": {
+              "mode": "raw",
+              "raw": "{\n  \"title\": \"Updated Session\",\n  \"chairpersons\": \"Dr. John Doe, Dr. Jane Smith, Prof. Robert Johnson\",\n  \"description\": \"Updated session description\"\n}"
+            }
+          }
+        },
+        {
+          "name": "Delete Session",
+          "request": {
+            "method": "DELETE",
+            "url": {
+              "raw": "http://localhost:8080/api/sessions/:id",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions", ":id"],
+              "variable": [
+                {
+                  "key": "id",
+                  "value": "{{sessionId}}",
+                  "description": "The ID of the session to delete"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "name": "Import Sessions from Excel",
+          "request": {
+            "method": "POST",
+            "url": {
+              "raw": "http://localhost:8080/api/sessions/import",
+              "protocol": "http",
+              "host": ["localhost"],
+              "port": "8080",
+              "path": ["api", "sessions", "import"]
+            },
+            "body": {
+              "mode": "formdata",
+              "formdata": [
+                {
+                  "key": "file",
+                  "type": "file",
+                  "src": "/path/to/your/sessions.xlsx",
+                  "description": "Excel file with Sessions and Subsessions sheets"
+                }
+              ]
+            }
+          }
+        }
+      ]
+    }
+  ]
+} 

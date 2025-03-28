@@ -1,0 +1,70 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# VS Code related
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# MongoDB related
+mongodb-logs/
+*.mongodump
+
+# API and backend temporary files
+**/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+backend-congress/uploads/videos/*
+backend-congress/uploads/*
+node_modules/
+.DS_Store

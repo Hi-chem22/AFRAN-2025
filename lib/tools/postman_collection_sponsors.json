@@ -1,0 +1,129 @@
+{
+  "info": {
+    "name": "AFRAN 2025 - Sponsors API",
+    "description": "API endpoints for managing sponsors in the AFRAN 2025 app",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "item": [
+    {
+      "name": "Get All Sponsors",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:8080/api/sponsors",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "sponsors"]
+        },
+        "description": "Retrieve all sponsors"
+      },
+      "response": []
+    },
+    {
+      "name": "Create Sponsor",
+      "request": {
+        "method": "POST",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"AFRAN Gold Sponsor\",\n  \"rank\": \"Gold\",\n  \"imageUrl\": \"https://example.com/sponsor-logo.png\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8080/api/sponsors",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "sponsors"]
+        },
+        "description": "Create a new sponsor"
+      },
+      "response": []
+    },
+    {
+      "name": "Get Sponsor by ID",
+      "request": {
+        "method": "GET",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:8080/api/sponsors/{{sponsorId}}",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "sponsors", "{{sponsorId}}"]
+        },
+        "description": "Retrieve a specific sponsor by ID"
+      },
+      "response": []
+    },
+    {
+      "name": "Update Sponsor",
+      "request": {
+        "method": "PUT",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"name\": \"Updated Sponsor Name\",\n  \"rank\": \"Platinum\",\n  \"imageUrl\": \"https://example.com/updated-logo.png\"\n}"
+        },
+        "url": {
+          "raw": "http://localhost:8080/api/sponsors/{{sponsorId}}",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "sponsors", "{{sponsorId}}"]
+        },
+        "description": "Update an existing sponsor"
+      },
+      "response": []
+    },
+    {
+      "name": "Delete Sponsor",
+      "request": {
+        "method": "DELETE",
+        "header": [
+          {
+            "key": "Content-Type",
+            "value": "application/json"
+          }
+        ],
+        "url": {
+          "raw": "http://localhost:8080/api/sponsors/{{sponsorId}}",
+          "protocol": "http",
+          "host": ["localhost"],
+          "port": "8080",
+          "path": ["api", "sponsors", "{{sponsorId}}"]
+        },
+        "description": "Delete a sponsor by ID"
+      },
+      "response": []
+    }
+  ],
+  "variable": [
+    {
+      "key": "sponsorId",
+      "value": "replace-with-actual-sponsor-id",
+      "type": "string"
+    }
+  ]
+} 

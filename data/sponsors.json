@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Ministère de l'Europe et des Affaires étrangères",
+    "description": "Le Ministère de l'Europe et des Affaires étrangères soutient les initiatives de coopération scientifique entre la France et l'Afrique.",
+    "logo": "https://example.com/logos/meae.png",
+    "website": "https://www.diplomatie.gouv.fr",
+    "tier": "platinum",
+    "featured": true
+  },
+  {
+    "name": "Agence Française de Développement",
+    "description": "L'AFD finance des projets qui améliorent les conditions de vie des populations, soutiennent la croissance économique et protègent la planète.",
+    "logo": "https://example.com/logos/afd.png",
+    "website": "https://www.afd.fr",
+    "tier": "platinum",
+    "featured": true
+  },
+  {
+    "name": "Orange",
+    "description": "Orange soutient l'innovation et la recherche en Afrique à travers ses programmes de partenariats universitaires.",
+    "logo": "https://example.com/logos/orange.png",
+    "website": "https://www.orange.com",
+    "tier": "gold",
+    "featured": true
+  },
+  {
+    "name": "Total Energies",
+    "description": "Total Energies s'engage dans le développement durable et la transition énergétique en Afrique.",
+    "logo": "https://example.com/logos/total.png",
+    "website": "https://www.totalenergies.com",
+    "tier": "gold",
+    "featured": false
+  },
+  {
+    "name": "BNP Paribas",
+    "description": "BNP Paribas soutient les initiatives éducatives et scientifiques en Afrique à travers sa fondation.",
+    "logo": "https://example.com/logos/bnp.png",
+    "website": "https://www.bnpparibas.com",
+    "tier": "gold",
+    "featured": false
+  },
+  {
+    "name": "Institut Pasteur",
+    "description": "L'Institut Pasteur contribue à la prévention et au traitement des maladies infectieuses en Afrique.",
+    "logo": "https://example.com/logos/pasteur.png",
+    "website": "https://www.pasteur.fr",
+    "tier": "silver",
+    "featured": true
+  },
+  {
+    "name": "Université Paris-Saclay",
+    "description": "L'Université Paris-Saclay développe de nombreux partenariats avec des universités africaines.",
+    "logo": "https://example.com/logos/paris-saclay.png",
+    "website": "https://www.universite-paris-saclay.fr",
+    "tier": "silver",
+    "featured": false
+  },
+  {
+    "name": "Air France",
+    "description": "Air France facilite les échanges scientifiques entre la France et l'Afrique.",
+    "logo": "https://example.com/logos/airfrance.png",
+    "website": "https://www.airfrance.fr",
+    "tier": "silver",
+    "featured": false
+  },
+  {
+    "name": "Société Générale",
+    "description": "La Société Générale soutient le développement économique et scientifique en Afrique.",
+    "logo": "https://example.com/logos/societe-generale.png",
+    "website": "https://www.societegenerale.com",
+    "tier": "bronze",
+    "featured": false
+  },
+  {
+    "name": "Sanofi",
+    "description": "Sanofi investit dans la recherche médicale et pharmaceutique en Afrique.",
+    "logo": "https://example.com/logos/sanofi.png",
+    "website": "https://www.sanofi.com",
+    "tier": "bronze",
+    "featured": false
+  }
+] 

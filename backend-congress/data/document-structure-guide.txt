@@ -1,0 +1,124 @@
+DOCUMENT STRUCTURE GUIDE FOR CONGRESS DATA IMPORT
+
+This guide explains how to format your Word document so that our extraction tool can parse it correctly.
+The document should be organized into clear sections with specific formatting for each type of data.
+
+====================================
+GENERAL STRUCTURE
+====================================
+
+Your document should have three main sections:
+1. SPEAKERS
+2. SESSIONS
+3. ROOMS
+
+Each section heading should be on its own line and in ALL CAPS.
+
+====================================
+SPEAKERS SECTION
+====================================
+
+Format each speaker as follows:
+
+Name: [Speaker's full name]
+Country: [Country of origin]
+Bio: [Short biography]
+Image: [Image filename or URL, optional]
+
+Example:
+SPEAKERS
+
+Name: Dr. Jane Smith
+Country: France
+Bio: Professor of Cardiology at Paris University with over 20 years of experience in cardiovascular research.
+Image: jane_smith.jpg
+
+Name: Prof. John Doe
+Country: USA
+Bio: Leading researcher in oncology at Harvard Medical School.
+Image: john_doe.jpg
+
+====================================
+SESSIONS SECTION
+====================================
+
+Format each session as follows:
+
+Title: [Session title]
+Day: [Day number, e.g., 1, 2, 3]
+Start: [Start time, e.g., 09:00]
+End: [End time, e.g., 10:30]
+Description: [Session description]
+Room: [Room name - must match a room in the ROOMS section]
+Speaker: [Speaker name - must match a name in the SPEAKERS section]
+Speaker: [Another speaker if applicable]
+
+To add subsessions (for example, for panels or workshops with multiple parts):
+
+Subsession: [Subsession title]
+SubDescription: [Subsession description]
+SubSpeaker: [Speaker name for this subsession]
+SubSpeaker: [Another speaker for this subsession if applicable]
+
+Example:
+SESSIONS
+
+Title: Opening Ceremony
+Day: 1
+Start: 09:00
+End: 10:00
+Description: Welcome to the 2025 Medical Congress
+Room: Main Hall
+Speaker: Dr. Jane Smith
+
+Title: Cardiovascular Research Panel
+Day: 1
+Start: 11:00
+End: 13:00
+Description: Latest advances in cardiovascular research
+Room: Room A
+Speaker: Dr. Jane Smith
+Speaker: Prof. John Doe
+Subsession: New Treatment Methods
+SubDescription: Discussion of novel treatment approaches
+SubSpeaker: Dr. Jane Smith
+Subsession: Research Challenges
+SubDescription: Current challenges in cardiovascular research
+SubSpeaker: Prof. John Doe
+
+====================================
+ROOMS SECTION
+====================================
+
+Format each room as follows:
+
+Name: [Room name]
+Capacity: [Number of seats]
+Location: [Location description, e.g., "First Floor, North Wing"]
+
+Example:
+ROOMS
+
+Name: Main Hall
+Capacity: 500
+Location: Ground Floor, Central Building
+
+Name: Room A
+Capacity: 150
+Location: First Floor, East Wing
+
+Name: Room B
+Capacity: 100
+Location: First Floor, West Wing
+
+====================================
+IMPORTANT NOTES
+====================================
+
+1. Consistency is crucial - make sure speaker names and room names are spelled exactly the same way throughout the document.
+2. Each field (Name:, Country:, etc.) should start at the beginning of a new line.
+3. Save your document as a .docx file named "congress-data.docx" in the "backend-congress/data" directory.
+4. The extraction tool will generate a JSON file with the extracted data for verification before inserting into the database.
+5. The tool will update existing data in the database - all current data will be deleted before new data is inserted.
+
+For any questions or issues with data extraction, please contact the system administrator. 

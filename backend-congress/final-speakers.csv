@@ -1,0 +1,6 @@
+ID,Name,Country,Title,Bio,Image URL,Flag URL,Source
+sample_id_3,Dr. Ahmed Hassan,Égypte,,Spécialiste des maladies tropicales et de la médecine préventive.,https://randomuser.me/api/portraits/men/3.jpg,https://flagcdn.com/eg.svg,
+sample_id_4,Dr. Fatima Benali,Maroc,,Experte en santé publique et politiques sanitaires en Afrique du Nord.,https://randomuser.me/api/portraits/women/4.jpg,https://flagcdn.com/ma.svg,
+sample_id_1,Dr. Jean Dupont,France,,Professeur en pharmacologie et expert en développement de médicaments.,https://randomuser.me/api/portraits/men/1.jpg,https://flagcdn.com/fr.svg,
+sample_id_2,Dr. Marie Curie,France,,Chercheuse émérite en radiologie et double lauréate du prix Nobel.,https://randomuser.me/api/portraits/women/2.jpg,https://flagcdn.com/fr.svg,
+sample_id_5,Prof. James Wilson,États-Unis,,Pionnier dans la recherche sur les maladies génétiques rares.,https://randomuser.me/api/portraits/men/5.jpg,https://flagcdn.com/us.svg,

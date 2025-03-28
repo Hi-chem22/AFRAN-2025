@@ -1,0 +1,42 @@
+[
+  {
+    "id": "sample_id_3",
+    "name": "Dr. Ahmed Hassan",
+    "country": "Égypte",
+    "bio": "Spécialiste des maladies tropicales et de la médecine préventive.",
+    "imageUrl": "https://randomuser.me/api/portraits/men/3.jpg",
+    "flagUrl": "https://flagcdn.com/eg.svg"
+  },
+  {
+    "id": "sample_id_4",
+    "name": "Dr. Fatima Benali",
+    "country": "Maroc",
+    "bio": "Experte en santé publique et politiques sanitaires en Afrique du Nord.",
+    "imageUrl": "https://randomuser.me/api/portraits/women/4.jpg",
+    "flagUrl": "https://flagcdn.com/ma.svg"
+  },
+  {
+    "id": "sample_id_1",
+    "name": "Dr. Jean Dupont",
+    "country": "France",
+    "bio": "Professeur en pharmacologie et expert en développement de médicaments.",
+    "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "flagUrl": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "id": "sample_id_2",
+    "name": "Dr. Marie Curie",
+    "country": "France",
+    "bio": "Chercheuse émérite en radiologie et double lauréate du prix Nobel.",
+    "imageUrl": "https://randomuser.me/api/portraits/women/2.jpg",
+    "flagUrl": "https://flagcdn.com/fr.svg"
+  },
+  {
+    "id": "sample_id_5",
+    "name": "Prof. James Wilson",
+    "country": "États-Unis",
+    "bio": "Pionnier dans la recherche sur les maladies génétiques rares.",
+    "imageUrl": "https://randomuser.me/api/portraits/men/5.jpg",
+    "flagUrl": "https://flagcdn.com/us.svg"
+  }
+]

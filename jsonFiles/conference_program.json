@@ -1,0 +1,1200 @@
+{
+  "conference": {
+    "days": [
+      {
+        "date": "Tuesday, April 15",
+        "sessions": [
+          {
+            "location": "Pr. Hassouna BEN AYED Conference Hall",
+            "events": [
+              {
+                "time": "08:00 – 09:00",
+                "title": "Registration",
+                "description": "Check-in & Onsite Registration"
+              },
+              {
+                "sessionTitle": "Session 1: Transplantation Rénale : Donneur Vivant",
+                "moderators": ["Mohamed Mongi Bacha", "Tahar Rayane", "Francois Vrtovsnik"],
+                "time": "09:00 - 10:30",
+                "interventions": [
+                  {
+                    "title": "Donneur Vivant, Recommandations de l'Agence de Biomédecine, de la SFT et de La SFNDT",
+                    "speaker": {
+                      "name": "Christophe MARIAT",
+                      "country": "FRANCE",
+                      "bio": "Head of the Department of Nephrology Dialysis and Renal Transplantation, Saint-Etienne University Hospital, Jean Monnet University - France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Donneur Vivant Limite : Cas Clinique 1",
+                    "speaker": {
+                      "name": "Wissal SAHTOUT",
+                      "country": "TUNISIE",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Sousse, Department of Nephrology, Sahloul University Hospital - Sousse, Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Donneur Vivant Limite : Cas Clinique 2",
+                    "speaker": {
+                      "name": "Faiza ZERDOUMI",
+                      "country": "ALGERIA",
+                      "bio": "Professor of Nephrology, Head of the Department of Nephrology-Hemodialysis, University Hospital, Oran – Algeria",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "10:30 - 11:00",
+                "title": "Coffee Break"
+              },
+              {
+                "sessionTitle": "Session 2: Dialyse de qualité en 2025",
+                "moderators": ["Abdellatif Achour", "Abdellatif Sidi Ali", "Thierry Lobbedez"],
+                "time": "11:00 - 13:00",
+                "interventions": [
+                  {
+                    "title": "Choix de la Méthode de Dialyse",
+                    "speaker": {
+                      "name": "Thierry LOBBEDEZ",
+                      "country": "FRANCE",
+                      "bio": "Professor-Hospital Practitioner, Head of the Department of Nephrology, Caen University Hospital - France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "L'abord de dialyse",
+                    "speaker": {
+                      "name": "Hichem KHELOUFI",
+                      "country": "ALGÉRIE",
+                      "bio": "Assistant Professor of Nephrology, Faculty of Medicine of Setif, Head of the peritoneal dialysis unit, CHU Setif",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Recommandations Pour Une Dialyse de Haute Qualité",
+                    "speaker": {
+                      "name": "Hafedh FESSI",
+                      "country": "Tunisia",
+                      "bio": "Consultant Nephrologist, Head of the Renal Therapies Department, Tenon Hospital AP - Paris, France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Qualité et Sécurité Des Soins en Dialyse, Place des Indicateurs De Performance",
+                    "speaker": {
+                      "name": "Thierry LOBBEDEZ",
+                      "country": "FRANCE",
+                      "bio": "Professor-Hospital Practitioner, Head of the Department of Nephrology, Caen University Hospital - France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "13:00 - 14:00",
+                "title": "Lunch Symposia"
+              },
+              {
+                "sessionTitle": "Session 3: Néphropathies Glomérulaires, Recommandations KDIGO : Fiches SFNDT",
+                "moderators": ["Hedi Ben Maiz", "Hocein Dkhissi", "Christophe Mariat"],
+                "time": "14:00 – 16:00",
+                "interventions": [
+                  {
+                    "title": "Syndrome Néphrotique Idiopathique",
+                    "speaker": {
+                      "name": "Sidi Mohamed Mah",
+                      "country": "Mauritania",
+                      "bio": "President of the Mauritanian Society of Nephrology, Head of the Department of Nephrology, Dialysis, and Kidney Transplantation, National Hospital Center of Nouakchott",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Glomérulonéphrite Extra-membraneuse",
+                    "speaker": {
+                      "name": "Mohamed Akli BOUBCHIR",
+                      "country": "ALGÉRIE",
+                      "bio": "Professor of Nephrology, President of the Scientific Council, Faculty of Medicine - Tizi Ouzou, Algeria",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Glomérulonéphrite à Dépôts Mésangiaux d'Ig A",
+                    "speaker": {
+                      "name": "Christophe MARIAT",
+                      "country": "FRANCE",
+                      "bio": "Head of the Department of Nephrology Dialysis and Renal Transplantation, Saint-Etienne University Hospital, Jean Monnet University - France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Glomérulonéphrite Lupique",
+                    "speaker": {
+                      "name": "Lamia RAIES",
+                      "country": "TUNISIE",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Tunis - Tunisia, Chief of the Kidney Histopathology Unit, Department of Nephrology, La Rabta Teaching Hospital",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Vascularites à ANCA",
+                    "speaker": {
+                      "name": "Meriam HAJJI",
+                      "country": "TUNISIE",
+                      "bio": "Associate Professor of Nephrology, Faculty of Medicine of Tunis - Tunisia, Co-Supervisor of the Kidney Histopathology Laboratory, Department of Internal Medicine A - Charles Nicolle Teaching Hospital",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "16:00 - 16:30",
+                "title": "Coffee Break"
+              },
+              {
+                "sessionTitle": "Session 4: Les Hyponatrémies",
+                "moderators": ["Hayet Kaaroud", "Hubert Yao", "Francois Vrtovsnik"],
+                "time": "16:30 – 17:30",
+                "interventions": [
+                  {
+                    "title": "Les hyponatrémies, Diagnostic et Traitement",
+                    "speaker": {
+                      "name": "Francois VRTOVSNIK",
+                      "country": "FRANCE",
+                      "bio": "Professor of nephrology, University of Paris, Head of the Department of Nephrology, Bichat Hospital- AP-HP, Paris - France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Les Hyponatrémies, Cas Clinique 1",
+                    "speaker": {
+                      "name": "Jannet LABIDI",
+                      "country": "TUNISIE",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Tunis - Tunisia, Head of the Department of Nephrology, Military Hospital, Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Les Hyponatrémies, Cas Clinique 2",
+                    "speaker": {
+                      "name": "Zeinabou Maiga Moussa TONDI",
+                      "country": "NIGER",
+                      "bio": "Associate Professor of Nephrology, CAMES Universities, Research Professor Coordinator of the DES and MASTER in Nephrology, Faculty of Health Sciences - Abdou Moumouni University, Niamey - Niger",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "18:30 – 19:30",
+                "title": "OPENING CEREMONY",
+                "chairpersons": ["Ezzedine Abderrahim", "Habib Skhiri"],
+                "interventions": [
+                  {
+                    "title": "Welcome Messages",
+                    "speakers": ["Ezzedine Abderrahim", "Habib Skhiri", "Mohamed Hany Hafez"],
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Tunisian Ministry of Health Welcome Address",
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Keynote Opening Conference: The burden of CKD and other NCDs in Africa: Opportunities and challenges for health systems",
+                    "speaker": {
+                      "name": "Pr. Marcello TONELLI",
+                      "country": "CANADA",
+                      "bio": "Professor of Medicine, Nephrologist - University of Calgary, Canada, Founding Director of the World Health Organization Collaborating Centre on Prevention and Control of Chronic Kidney Disease",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "ISN Pioneer Award for Africa Ceremony",
+                    "time": "25 min",
+                    "subInterventions": [
+                      {
+                        "title": "Pioneer Award : Background, Purpose, Selection Process",
+                        "speakers": ["Marcello Tonelli (ISN President)", "Mara Rodriguez (ISN Grants Manager)"],
+                        "time": "10 min"
+                      },
+                      {
+                        "title": "Regional Leader : Award Winner's Attributes and Achievements",
+                        "speaker": {
+                          "name": "Abdou Niang",
+                          "country": "Senegal",
+                          "bio": "Professor of Nephrology and Head of nephrology department at the Faculty of Medicine of Cheikh Anta Diop University, Dakar, SENEGAL",
+                          "image": "[Image URL here]"
+                        },
+                        "time": "5 min"
+                      },
+                      {
+                        "title": "Certificate and Prize Presentation",
+                        "speakers": ["Marcello Tonelli", "Mara Rodriguez", "Abdou Niang"],
+                        "time": "5 min"
+                      },
+                      {
+                        "title": "Award Winner, Thank You",
+                        "speaker": {
+                          "name": "Boucar Diouf"
+                        },
+                        "time": "5 min"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "time": "20:00 – 22:00",
+                "title": "Welcome Reception & Exhibition Inauguration"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "Wednesday, April 16",
+        "sessions": [
+          {
+            "location": "Pr. Hassouna BEN AYED Conference Hall",
+            "events": [
+              {
+                "time": "08:15 - 10:00",
+                "sessionTitle": "Plenary Session 1: AFRAN – ISN Joint Plenary Session",
+                "chairpersons": ["Habib Skhiri", "Fatiu Abiola Arogundade", "Mohamed Hany Hafez", "Marcello Tonelli"],
+                "interventions": [
+                  {
+                    "title": "Patient Complexity & Multimorbidity in Kidney Population",
+                    "speaker": {
+                      "name": "Marcello TONELLI",
+                      "country": "CANADA",
+                      "bio": "Professor of Medicine, Nephrologist - University of Calgary, Canada",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Barriers to an equitable Access to kidney care in Africa",
+                    "speaker": {
+                      "name": "Gloria ASHUNTANTANG",
+                      "country": "CAMEROUN",
+                      "bio": "Consultant Nephrologist, Yaounde General Hospital, Professor of Medicine, University of Yaounde I, Cameroon",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Kidney Amyloidosis, Pathogenesis And Therapy",
+                    "speaker": {
+                      "name": "Rumeyza KAZANCIOGLU",
+                      "country": "TURKEY",
+                      "bio": "Professor of Nephrology at Bezmialem Vakıf University",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Supportive and Conservative Management for Chronic Kidney Disease, A Mandatory Choice",
+                    "speaker": {
+                      "name": "Robert KALYESUBULA",
+                      "country": "UGANDA",
+                      "bio": "Head of the Department of Physiology at Makerere University - Kampala, Uganda",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "10:00 - 10:30",
+                "title": "Coffee Break, Exhibition & Poster Sessions"
+              },
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "STATE OF THE ART Focused Lecture 1: APOL1 and Chronic Kidney Disease (KDIGO)",
+                "interventions": [
+                  {
+                    "title": "Epidemiology and Clinical Features of APOL1-Associated Nephropathies",
+                    "speaker": {
+                      "name": "Saraladevi NAICKER",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Emeritus Professor of Medicine, University of the Witwatersrand - Johannesburg, South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Genetics and Histology Spectrum of APOL1-Mediated Kidney Injuries",
+                    "speaker": {
+                      "name": "Adu DWOMOA",
+                      "country": "GHANA",
+                      "bio": "Honorary Consultant Nephrologist, Senior Research Fellow, Korle Bu Teaching Hospital",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Management and Outcome of APOL1-kidney diseases",
+                    "speaker": {
+                      "name": "Akinlolu OJO",
+                      "country": "USA",
+                      "bio": "Professor of Medicine and Population Health, Executive Dean and Chief Academic Officer, School of Medicine - University of Kansas",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Novel Therapeutics for APOL1 – Kidney Diseases, Target Pathogenic Pathways and Clinical Trial Results",
+                    "speaker": {
+                      "name": "Rasheed GBADEGESIN",
+                      "bio": "Wilburt C. Davison Distinguished Professor of Pediatrics and Professor of Medicine, Duke University School of Medicine",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 - 13:00",
+                "title": "FREE COMMUNICATIONS",
+                "chairpersons": ["Awatef Azzabi", "Ramdane Allali"]
+              },
+              {
+                "time": "13:00 - 14:00",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "14:00 - 16:00",
+                "sessionTitle": "PLENARY SESSION 2: Epidemiology and Chronic Kidney Disease Registries",
+                "chairpersons": ["Ezzedine Abderrahim", "Razeen Davids", "Marcello Tonelli", "Roser Torra"],
+                "interventions": [
+                  {
+                    "title": "Common Pitfalls In Epidemiological Research",
+                    "speaker": {
+                      "name": "Vianda STELL",
+                      "country": "NETHERLANDS",
+                      "bio": "Epidemiologist Specialized in Kidney Disease, Associate Professor and Managing Director, European Renal Association (ERA) Registry",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Requirements to Implement and Maintain Chronic Kidney Disease Registries",
+                    "speaker": {
+                      "name": "Maria PIPPIAS",
+                      "country": "UNITED KINGDOM",
+                      "bio": "Consultant Nephrologist, Honorary Clinical Lecturer, Bright Renal Unit, North Bristol NHS Trust",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Chronic Kidney Disease Registries as Useful Tool for Physicians and Authorities",
+                    "speaker": {
+                      "name": "Vianda STELL",
+                      "country": "NETHERLANDS",
+                      "bio": "Epidemiologist Specialized in Kidney Disease, Associate Professor and Managing Director, European Renal Association (ERA) Registry",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Chronic Kidney Disease Registries in AFRICA, Opportunities and Obstacles",
+                    "speaker": {
+                      "name": "Razeen DAVIDS",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Emeritus Professor of Nephrology, Stellenbosch University and Tygerberg Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "16:00 – 16:30",
+                "title": "Coffee Break"
+              },
+              {
+                "time": "16:30 – 18:00",
+                "sessionTitle": "STATE OF THE ART Focused Lecture 4: Reproductive Health In Women and Kidney Disease",
+                "chairpersons": ["Dorsaf Zellama", "Rasha Darwish", "Roser Torra", "Urmila Gupta Anandh"],
+                "interventions": [
+                  {
+                    "title": "Gender-Base Disparities in Access to Kidney Care in Africa",
+                    "speaker": {
+                      "name": "Saraladevi NAICKER",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Emeritus Professor of Medicine, University of the Witwatersrand - Johannesburg, South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Women and Reproductive Health in Kidney Diseases",
+                    "speaker": {
+                      "name": "Bianca DAVIDSON",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Consultant, Department of Nephrology - Groote Schuur Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Menopause and Chronic Kidney Diseases",
+                    "speaker": {
+                      "name": "Vesna GAROVIC",
+                      "country": "USA",
+                      "bio": "Professor of Medicine, Division of Nephrology and Hypertension, Mayo Clinic - Rochester, Minnesota",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Acute Kidney Injury in African Women, Causes and Management",
+                    "speaker": {
+                      "name": "Rasha SAMIR SHEMIES",
+                      "country": "EGYPT",
+                      "bio": "Assistant Professor of Nephrology, Mansoura University, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "18:00 – 19:30",
+                "title": "AFRAN Meeting – General Assembly"
+              }
+            ]
+          },
+          {
+            "location": "Pr. Adel KHEDHER Conference Room",
+            "events": [
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "STATE OF THE ART Focused Lecture 2: Geriatric Nephrology",
+                "chairpersons": ["Badreddine Ben Kaab", "Ahmed Sokwala", "Sudakshina Ghosh"],
+                "interventions": [
+                  {
+                    "title": "The Kidney Senescence",
+                    "speaker": {
+                      "name": "Rumeyza KAZANCIOGLU",
+                      "country": "TURKEY",
+                      "bio": "Professor of Nephrology at Bezmialem Vakıf University",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Fluid And Serum Sodium Disorders in The Elderly",
+                    "speaker": {
+                      "name": "Yasser ABDELHAMID",
+                      "country": "EGYPT",
+                      "bio": "Professor of Medicine and Nephrology, Cairo University, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Glomerulonephritis in the Elderly",
+                    "speaker": {
+                      "name": "Mouna JERBI",
+                      "country": "TUNISIA",
+                      "bio": "Associate Professor of Nephrology, Faculty of Medicine - Tunis, Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Chronic Kidney Disease Management and Dialysis Decision In the Elderly",
+                    "speaker": {
+                      "name": "Faiza ZERDOUMI",
+                      "country": "ALGERIA",
+                      "bio": "Professor of Nephrology, Head of the Department of Nephrology-Hemodialysis, University Hospital, Oran – Algeria",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 - 13:00",
+                "title": "FREE COMMUNICATIONS",
+                "chairpersons": ["Amel Harzallah", "Zeinabou Maiga Moussa Tondi"]
+              },
+              {
+                "time": "13:00 - 14:00",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "16:30 – 18:00",
+                "sessionTitle": "Focused Lecture 5: Acute Kidney Injury",
+                "chairpersons": ["Ibtissame Arbaoui", "Mohamed Benghanem", "Yasser Abdelhamid"],
+                "interventions": [
+                  {
+                    "title": "Acute Kidney Injury in The Era of Climate Change",
+                    "speaker": {
+                      "name": "Ifeoma ULASI",
+                      "country": "NIGERIA",
+                      "bio": "Professor of Medicine, Affiliations to Teaching Hospitals - Enugu, Nigeria",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Acute Kidney Injury in AFRICA, Relationship with Prevalent Infectious Diseases",
+                    "speaker": {
+                      "name": "Sudakshina GHOSH",
+                      "country": "TANZANIA",
+                      "bio": "Consultant Nephrologist and Physician at Regency Medical Centre, Dar Essalem - Tanzania",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Toxic and Iatrogenic Causes of Acute Kidney Injury",
+                    "speaker": {
+                      "name": "Amel HARZALLAH",
+                      "country": "TUNISIA",
+                      "bio": "Professor, Chief of the Nephrology Section - Faculty of Medicine of Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Kidney Replacement Therapy in Acute Kidney Injury",
+                    "speaker": {
+                      "name": "Yannick NLANDU",
+                      "country": "RD CONGO",
+                      "bio": "Nephrologist, Lecturer, University of Kinshasa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "Thursday, April 17",
+        "sessions": [
+          {
+            "location": "Pr. Hassouna BEN AYED Conference Hall",
+            "events": [
+              {
+                "time": "08:15 – 10:00",
+                "sessionTitle": "PLENARY SESSION 3: ISN Breakfast Session: ISN Programs and Opportunities - ISN Executive Representatives",
+                "chairpersons": ["Fatiu Abiola Arogundade", "Mohamed Salah Eldin Zaki", "Charu Malik", "Mara Rodriguez"],
+                "interventions": [
+                  {
+                    "title": "ISN Programs and Opportunities",
+                    "speakers": ["Marcello Tonelli", "Charu MALIK", "Mara RODRIGUEZ"],
+                    "bio": "Various roles within ISN",
+                    "image": "[Image URL here]",
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "08:15 – 10:00",
+                "sessionTitle": "PLENARY SESSION 4: Hot Topics, What's New In Nephrology",
+                "chairpersons": ["Mohamed Ben Hmida", "Gloria Ashuntantang", "Ahmed Twahir"],
+                "interventions": [
+                  {
+                    "title": "Kidney Disease and Heart Failure: Recent Advances and Current Challenges",
+                    "speaker": {
+                      "name": "Michel JADOUL",
+                      "country": "BELGIUM",
+                      "bio": "Chair of the Division of Nephrology of the Cliniques Univ. St Luc",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "SGLT2 Inhibitors and GLP-1, Expanded Indications in Nephrology",
+                    "speaker": {
+                      "name": "Faiçal JARRAYA",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Sfax - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Novel Treatments for IgA Glomerulonephritis and Focal Segmental Glomerulosclerosis",
+                    "speaker": {
+                      "name": "Mohamed Hany HAFEZ",
+                      "country": "EGYPT",
+                      "bio": "Emeritus Professor of Nephrology and Medicine, Cairo University - Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Lupus Nephritis, Updated Guidelines",
+                    "speaker": {
+                      "name": "Abdou NIANG",
+                      "country": "SENEGAL",
+                      "bio": "Professor of Nephrology and Head of nephrology department at the Faculty of Medicine of Cheikh Anta Diop University, Dakar, SENEGAL",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "10:00 - 10:30",
+                "title": "Coffee Break, Exhibition & Poster Sessions"
+              },
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "Focused Lecture 7: Hypertension and Cardiovascular Diseases",
+                "chairpersons": ["Amel Harzallah", "Hesham Essayed", "Rasha Samir Shemies"],
+                "interventions": [
+                  {
+                    "title": "Chronotherapy in CKD-Associated Hypertension, Benefits?",
+                    "speaker": {
+                      "name": "Badreddine BEN KAAB",
+                      "country": "TUNISIA",
+                      "bio": "Associate Professor of Nephrology, Faculty of Medicine of Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Renal Denervation and New Therapeutic Regimens for Resistant and Uncontrolled Hypertension",
+                    "speaker": {
+                      "name": "Hubert YAO",
+                      "country": "CÔTE D'IVOIRE",
+                      "bio": "Professor of Nephrology, Felix Houphouet-Boigny University, Abidjan-Côte d'Ivoire",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Optimal Targets in Associated-CKD Hypertension, Guidelines Vs Daily Practice",
+                    "speaker": {
+                      "name": "Mohamed Akli BOUBCHIR",
+                      "country": "ALGERIA",
+                      "bio": "Professor of Nephrology, President of the Scientific Council, Faculty of Medicine - Tizi Ouzou, Algeria",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Arrythmias In Chronic Kidney Disease",
+                    "speaker": {
+                      "name": "Sana OUALI",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Cardiology, Faculty of Medicine of Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 – 13:30",
+                "sessionTitle": "PLENARY SESSION 5: Renal Replacement Therapy",
+                "chairpersons": ["Dorsaf Zellama", "Bianca Davidson", "Valérie Luyckx"],
+                "interventions": [
+                  {
+                    "title": "Relevance of Incremental Hemodialysis, Beyond Resources Shortage",
+                    "speaker": {
+                      "name": "Valérie LUYCKX",
+                      "country": "SWIZERLAND",
+                      "bio": "Works at Zurich Children's Hospital, Switzerland",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Home Dialysis in Africa: Understanding the Challenges and Finding Solutions",
+                    "speaker": {
+                      "name": "Hafedh FESSI",
+                      "country": "Tunisia",
+                      "bio": "Consultant Nephrologist, Head of the Renal Therapies Department, Tenon Hospital AP - Paris, France",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Conventional or High Flux Hemodialysis Vs Online Hemodiafiltration",
+                    "speaker": {
+                      "name": "Imed HELAL",
+                      "country": "Tunisia",
+                      "bio": "Academic Nephrologist and Clinical Scientist",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Chronic Inflammation and Oxidative Stress in Dialysis Patients",
+                    "speaker": {
+                      "name": "Hesham ESSAYED",
+                      "country": "EGYPT",
+                      "bio": "Emeritus Professor of Nephrology, Ain Shams University - Cairo, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  }
+                ]
+              },
+              {
+                "time": "13:30 - 14:30",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "14:30 - 16:00",
+                "sessionTitle": "Focused Lecture 10: Data Science and New Technology Tools, Application In Nephrology",
+                "chairpersons": ["Imed Helal", "Hussein Bagha", "Ahmed Saeed"],
+                "interventions": [
+                  {
+                    "title": "Science of GFR Estimating Equations",
+                    "speaker": {
+                      "name": "Andrew RULE",
+                      "country": "USA",
+                      "bio": "Professor of Medicine, Mayo Clinic - Rochester, Minnesota - USA",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Tele - Health in Nephrology, Challenges and Benefits",
+                    "speaker": {
+                      "name": "Tariq SQUALLI",
+                      "country": "MOROCCO",
+                      "bio": "Dean of the Faculty of Medicine, Pharmacy and Dentistry, Fez - Morocco",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Virtual Reality: an Innovative Tool for Therapeutic Patient Education and Providers Teaching",
+                    "speaker": {
+                      "name": "Samarra BADROUCHI",
+                      "country": "TUNISIA",
+                      "bio": "Assistant Professor of Nephrology, Member of Innovation Committee, Faculty of Medicine of Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Deep Learning-Based Paradigm, Applications in Kidney Histopathology",
+                    "speaker": {
+                      "name": "Wessam ISMAIL",
+                      "country": "EGYPT",
+                      "bio": "Head of the Pathology department, Beni-Suef University, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "location": "Pr. Adel KHEDHER Conference Room",
+            "events": [
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "Focused Lecture 8: Environment and Kidney Disease, Green Nephrology",
+                "chairpersons": ["Khawla Kammoun", "Wessam Ismail", "Maria Pippias"],
+                "interventions": [
+                  {
+                    "title": "Atmospheric Pollution and Climate Change, Impact on Kidney Disease",
+                    "speaker": {
+                      "name": "Maria PIPPIAS",
+                      "country": "UNITED KINGDOM",
+                      "bio": "Consultant Nephrologist, Honorary Clinical Lecturer, Bright Renal Unit, North Bristol NHS Trust",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Tropical Diseases and Kidney Damage",
+                    "speaker": {
+                      "name": "Fatiu AROGUNDADE",
+                      "country": "NIGERIA",
+                      "bio": "Registrar of the National Postgraduate Medical College of Nigeria (NPMCN)",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Water Saving in Hemodialysis, Modalities",
+                    "speaker": {
+                      "name": "Mohamed BEN HMIDA",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Sfax - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Optimization of Energy Consumption and Waste Management in Dialysis Facilities",
+                    "speaker": {
+                      "name": "Abdellatif SIDI ALI",
+                      "country": "MAURITANIA",
+                      "bio": "Professor of Nephrology, Faculty of Medicine in Nouakchott",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "13:30 - 14:30",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "14:30 - 16:00",
+                "sessionTitle": "Focused Lecture 11: Keeping People on Peritoneal Dialysis",
+                "chairpersons": ["Bahadi Abdelali", "Abdou Niang", "Rasha Darwish"],
+                "interventions": [
+                  {
+                    "title": "How to Build a Successful Peritoneal Dialysis Program in Africa, Lessons from the Nursing Perspective",
+                    "speaker": {
+                      "name": "Leigh MORTON",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Unit Manager at Life Hilton Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "How to Prolong Time on Peritoneal Dialysis",
+                    "speaker": {
+                      "name": "Edwina BROWN",
+                      "country": "UK",
+                      "bio": "Consultant Nephrologist, Imperial College Healthcare NHS Trust, London - UK",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  },
+                  {
+                    "title": "Peritoneal Dialysis, The First 90 Days",
+                    "speaker": {
+                      "name": "Bianca DAVIDSON",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Consultant, Department of Nephrology - Groote Schuur Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "date": "Friday, April 18",
+        "sessions": [
+          {
+            "location": "Pr. Hassouna BEN AYED Conference Hall",
+            "events": [
+              {
+                "time": "07:30 – 08:15",
+                "sessionTitle": "PLENARY SESSION 6: AFRAN-ISPD Joint Session Increasing Access to Peritoneal Dialysis In Africa",
+                "chairpersons": ["Abdou Niang", "Taieb Ben Abdallah", "Bianca Davidson", "Edwina Brown"],
+                "interventions": [
+                  {
+                    "title": "Peritoneal Dialysis Practice In Africa, How To Overcome Limitations Barriers?",
+                    "speaker": {
+                      "name": "Edwina BROWN",
+                      "country": "UNITED KINGDOM",
+                      "bio": "Consultant Nephrologist, Imperial College Healthcare NHS Trust, London - UK",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "PD Practice In Africa, Ongoing Programs And Projects",
+                    "speaker": {
+                      "name": "Rasha DARWISH",
+                      "country": "EGYPT",
+                      "bio": "Consultant of Internal Medicine & Nephrology, Kasr Alainy Medical School - Cairo University, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "08:15 – 10:00",
+                "sessionTitle": "PLENARY SESSION 7: Kidney Transplantation",
+                "chairpersons": ["Ezzedine Abderrahim", "Abdelhafidh Shebani", "Thomas Mueller"],
+                "interventions": [
+                  {
+                    "title": "Kidney Transplant Programs in Africa, Needs for Establishment and Requirements for Sustainability",
+                    "speaker": {
+                      "name": "Mohamed Mongi BACHA",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Nephrology, Faculty of Medicine of Tunis - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Istanbul Declaration: Clinical Practice and Organizations' Endorsement in Africa",
+                    "speaker": {
+                      "name": "Thomas MUELLER",
+                      "country": "SWIZERLAND",
+                      "bio": "Senior Advisor for Swiss Transplant, Co-Chair for the Declaration of Istanbul Custodian Group",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "International Regulation for the Use of Generics and Biosimilars in Kidney Transplantation - Application to African Countries",
+                    "speaker": {
+                      "name": "Emna GAIES",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Pharmacology, Faculty of Medicine of Tunis - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Novel Biomarkers in Kidney Transplantation",
+                    "speaker": {
+                      "name": "Mohamed Salah Eldin ZAKI",
+                      "country": "EGYPT",
+                      "bio": "Dean of National Institute of Urology and Nephrology, Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "30 min"
+                  }
+                ]
+              },
+              {
+                "time": "10:00 - 10:30",
+                "title": "Coffee Break"
+              },
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "FOCUSED LECTURE 13: Diabetic Kidney Disease",
+                "chairpersons": ["Faycal Jarraya", "Tariq Squalli", "Mohamed Ezwaie"],
+                "interventions": [
+                  {
+                    "title": "Diabetic Kidney Disease, The Rising Tide is on our Shores",
+                    "speaker": {
+                      "name": "Abdulhafidh SHEEBANI",
+                      "country": "LYBIA",
+                      "bio": "Consultant Nephrologist, Tripoli Central Hospital",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Non-Diabetic Nephropathies in Diabetics",
+                    "speaker": {
+                      "name": "Ikram MAMI",
+                      "country": "TUNISIA",
+                      "bio": "Associate Professor, Faculty de Medicine of Tunis - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Management of Diabetic Kidney Disease in the New Therapeutic Era",
+                    "speaker": {
+                      "name": "Habib SKHIRI",
+                      "country": "TUNISIA",
+                      "bio": "Professor, Head of the Department of Nephrology - Fattouma Bourguiba Teaching Hospital",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Glycemic Control and Anti-Diabetic Drugs in Patients Undergoing Renal Replacement Therapy",
+                    "speaker": {
+                      "name": "Fatma MNIF BOUSSARSSAR",
+                      "country": "TUNISIA",
+                      "bio": "Professor of Endocrinology, Faculty of Medicine of Sfax - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 - 13:00",
+                "title": "FREE COMMUNICATIONS",
+                "chairpersons": ["Zohra Sassi Jallali", "Robert Kalyesubula"]
+              },
+              {
+                "time": "13:30 - 14:30",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "14:00 - 15:30",
+                "sessionTitle": "PLENARY SESSION 8: AFRAN Committees & Working Groups Reports & Projects",
+                "chairpersons": ["Mohamed Hany Hafez", "Faical Jarraya", "Abdou Niang", "Mohamed Mongi Bacha"]
+              },
+              {
+                "time": "15:30 - 16:00",
+                "title": "Coffee Break"
+              },
+              {
+                "time": "16:00 - 17:00",
+                "sessionTitle": "AWARDS & CLOSING CEREMONY",
+                "chairpersons": ["Ezzedine Abderrahim", "Mohamed Hany Hafez", "Habib Skhiri", "Abdou Niang"]
+              }
+            ]
+          },
+          {
+            "location": "Pr. Adel KHEDHER Conference Room",
+            "events": [
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "FOCUSED LECTURE 14: Nephrolithiasis",
+                "chairpersons": ["Ahmed Letaief", "Sidi Mohamed Mah", "Mohamed Ben Abdelhak"],
+                "interventions": [
+                  {
+                    "title": "Nephrolithiasis, Current Pathogenesis Concepts",
+                    "speaker": {
+                      "name": "Mohammed ABDEL GAWAD",
+                      "country": "EGYPT",
+                      "bio": "Lecturer of Nephrology, School of Medicine - NewGiza University (NGU), Giza - Egypt",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Approach to Patients With Recurrent Nephrolithiasis",
+                    "speaker": {
+                      "name": "Soumaya CHARGUI",
+                      "country": "TUNISIA",
+                      "bio": "Associate Professor of Nephrology, Faculty of Medicine of Tunis",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Nephrocalcinosis, Etiological Paradigms",
+                    "speaker": {
+                      "name": "Abir BOUSETTA",
+                      "country": "TUNISIA",
+                      "bio": "Associated Professor, Pediatric Nephrology, Charles Nicolle Hospital, Tunis - Tunisia",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Type 1 Hyperoxaluria, Therapeutic Approach Beyond Dual Liver and Kidney Transplantation",
+                    "speaker": {
+                      "name": "Bahadi ABDELALI",
+                      "country": "MOROCCO",
+                      "bio": "Nephrologist, Associate Professor, Department of Nephrology, Military Teaching Hospital Mohammed V",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 - 13:00",
+                "title": "FREE COMMUNICATIONS",
+                "chairpersons": ["Soumaya Chargui", "Yannick Nlandu"]
+              },
+              {
+                "time": "13:30 - 14:30",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "15:30 - 16:00",
+                "title": "Coffee Break"
+              }
+            ]
+          },
+          {
+            "location": "Pr. Abdelhamid JARRAYA Conference Room",
+            "events": [
+              {
+                "time": "10:30 - 12:00",
+                "sessionTitle": "FOCUSED LECTURE 15: Nephropediatrics",
+                "chairpersons": ["Taher Gargah", "Awatef Salem Albouaishi", "Hichem Kheloufi"],
+                "interventions": [
+                  {
+                    "title": "Post-Infectious Glomerulonephritis, A Continuing to Impact African Children",
+                    "speaker": {
+                      "name": "Awatef SALEM ELBOUAISHI",
+                      "country": "LIBYA",
+                      "bio": "Consultant, Head of the Department of Pediatric Nephrology, Tripoli University Hospital - Libya",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Acute Kidney Injury in Pediatric Population, Causes and Management",
+                    "speaker": {
+                      "name": "Sameh MABROUK",
+                      "country": "TUNISIA",
+                      "bio": "Pediatric nephrologist, responsible for the department of pediatric nephrology at the university hospital Sahloul (Sousse - Tunisia)",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "25 min"
+                  },
+                  {
+                    "title": "Tubular Acidosis, Diagnosis and Therapeutic Management",
+                    "speaker": {
+                      "name": "Razeen DAVIDS",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Emeritus Professor of Nephrology, Stellenbosch University and Tygerberg Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  },
+                  {
+                    "title": "Transition From Pediatric to Adult Nephrology Care, Medical and Psychosocial Considerations",
+                    "speaker": {
+                      "name": "Bianca DAVIDSON",
+                      "country": "SOUTH AFRICA",
+                      "bio": "Consultant, Department of Nephrology - Groote Schuur Hospital, Cape Town - South Africa",
+                      "image": "[Image URL here]"
+                    },
+                    "time": "20 min"
+                  }
+                ]
+              },
+              {
+                "time": "12:00 - 13:00",
+                "title": "FREE COMMUNICATIONS",
+                "chairpersons": ["Khawla Kammoun", "Awatef Salem Albouaishi"]
+              },
+              {
+                "time": "13:30 - 14:30",
+                "title": "Lunch SYMPOSIA"
+              },
+              {
+                "time": "15:30 - 16:00",
+                "title": "Coffee Break"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+} 

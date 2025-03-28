@@ -1,0 +1,15 @@
+Session ID,Title,Start Time,End Time,Speaker,Speaker Country,Speaker Bio,Speaker Flag,Description
+1,Welcome Address,09:00,09:15,Dr. John Smith,USA,President of Medical Association,us,Opening remarks
+1,Keynote Speech,09:15,10:00,Prof. Maria Garcia,Spain,Renowned researcher in public health,es,Overview of conference themes
+1,Q&A Session,10:00,10:30,,,,,Interactive session with audience
+2,Recent Breakthroughs,11:00,11:30,Dr. Emily Johnson,UK,Head of Research at London Medical,gb,Presentation of recent studies
+2,Clinical Applications,11:30,12:00,Dr. Thomas Brown,Canada,Clinical Director at Toronto Hospital,ca,Practical applications of research
+2,Discussion Panel,12:00,12:30,"Dr. Emily Johnson, Dr. Thomas Brown",,,,"Open discussion on research impact"
+3,AI in Healthcare,14:00,14:20,Prof. David Lee,South Korea,AI Research Director,kr,Artificial intelligence applications
+3,Blockchain for Medical Records,14:20,14:40,Dr. Sarah Chen,Singapore,Technology Innovation Lead,sg,Secure medical data management
+3,Panel Discussion,14:40,15:30,"Prof. David Lee, Dr. Sarah Chen, Dr. Michael Wong",,,,"Interactive panel with audience questions"
+4,Best Practices Demo,09:30,10:15,Dr. Robert Williams,Australia,Clinical Excellence Award winner,au,Demonstration of techniques
+4,Hands-on Exercise,10:15,11:00,,,,,Practical session for attendees
+5,Policy Implications,13:00,13:45,Prof. James Miller,Germany,Health Policy Advisor,de,Regulatory and policy considerations
+5,Future Technologies,13:45,14:30,Dr. Lisa Wang,China,Director of Innovation,cn,Emerging technologies in healthcare
+5,Closing Remarks,14:30,15:00,"Prof. James Miller, Dr. Lisa Wang",,,,"Summary and future directions" 

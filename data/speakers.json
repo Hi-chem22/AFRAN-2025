@@ -1,0 +1,180 @@
+[
+  {
+    "id": "speaker1",
+    "name": "Dr. Aminata Diallo",
+    "role": "Présidente AFRAN",
+    "institution": "Université Cheikh Anta Diop, Sénégal",
+    "bio": "Dr. Aminata Diallo est la présidente de l'Association Franco-Africaine pour la Recherche et l'Avancement des Nations (AFRAN). Elle est professeure de relations internationales à l'Université Cheikh Anta Diop de Dakar.",
+    "photo": "https://example.com/photos/aminata_diallo.jpg",
+    "social": {
+      "twitter": "@AminataDiallo",
+      "linkedin": "aminata-diallo-afran"
+    },
+    "featured": true
+  },
+  {
+    "id": "speaker2",
+    "name": "Prof. Jean Dupont",
+    "role": "Vice-Président AFRAN",
+    "institution": "Université Paris-Saclay, France",
+    "bio": "Professeur Jean Dupont est un chercheur renommé en physique des particules et vice-président de l'AFRAN. Il dirige également le département de physique avancée à l'Université Paris-Saclay.",
+    "photo": "https://example.com/photos/jean_dupont.jpg",
+    "social": {
+      "twitter": "@JeanDupont",
+      "linkedin": "jean-dupont-physics"
+    },
+    "featured": true
+  },
+  {
+    "id": "speaker3",
+    "name": "Dr. Oluwaseun Adeyemi",
+    "role": "Chercheur en IA",
+    "institution": "Institut Africain des Sciences Mathématiques, Nigeria",
+    "bio": "Dr. Adeyemi est un expert en intelligence artificielle appliquée aux enjeux africains. Ses recherches portent sur l'utilisation de l'IA pour résoudre des problèmes de santé publique en Afrique.",
+    "photo": "https://example.com/photos/oluwaseun_adeyemi.jpg",
+    "social": {
+      "twitter": "@OluwaseunAI",
+      "linkedin": "oluwaseun-adeyemi"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker4",
+    "name": "Dr. Sophie Martin",
+    "role": "Directrice de recherche",
+    "institution": "CNRS, France",
+    "bio": "Dr. Sophie Martin dirige l'unité de recherche sur l'IA et la robotique au CNRS. Elle a publié plus de 100 articles scientifiques et collabore étroitement avec plusieurs universités africaines.",
+    "photo": "https://example.com/photos/sophie_martin.jpg",
+    "social": {
+      "twitter": "@SophieMartinAI",
+      "linkedin": "sophie-martin-cnrs"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker5",
+    "name": "Prof. Kofi Mensah",
+    "role": "Spécialiste du climat",
+    "institution": "Université du Ghana",
+    "bio": "Prof. Mensah est un expert reconnu du changement climatique en Afrique de l'Ouest. Il dirige plusieurs projets de recherche sur l'adaptation climatique et le développement durable.",
+    "photo": "https://example.com/photos/kofi_mensah.jpg",
+    "social": {
+      "twitter": "@KofiMensahClimate",
+      "linkedin": "kofi-mensah-climate"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker6",
+    "name": "Dr. Claire Lefebvre",
+    "role": "Ingénieure environnementale",
+    "institution": "Institut de Recherche pour le Développement, France",
+    "bio": "Dr. Lefebvre travaille sur des solutions durables pour l'Afrique, notamment dans les domaines de la gestion de l'eau et des énergies renouvelables. Elle a participé à de nombreux projets collaboratifs au Sahel.",
+    "photo": "https://example.com/photos/claire_lefebvre.jpg",
+    "social": {
+      "linkedin": "claire-lefebvre-environment"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker7",
+    "name": "Dr. Moussa Sangaré",
+    "role": "Médecin chercheur",
+    "institution": "Institut Pasteur de Dakar, Sénégal",
+    "bio": "Dr. Sangaré est spécialisé dans les maladies infectieuses et tropicales. Ses recherches ont contribué à l'amélioration des protocoles de traitement dans plusieurs pays africains.",
+    "photo": "https://example.com/photos/moussa_sangare.jpg",
+    "social": {
+      "twitter": "@MoussaSangare",
+      "linkedin": "moussa-sangare-md"
+    },
+    "featured": true
+  },
+  {
+    "id": "speaker8",
+    "name": "Prof. Hélène Duval",
+    "role": "Épidémiologiste",
+    "institution": "Université de Montpellier, France",
+    "bio": "Prof. Duval a consacré sa carrière à l'étude des épidémies en Afrique. Elle collabore étroitement avec l'OMS et plusieurs ministères de la santé africains.",
+    "photo": "https://example.com/photos/helene_duval.jpg",
+    "social": {
+      "twitter": "@HeleneDuvalEpid",
+      "linkedin": "helene-duval-epidemiology"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker9",
+    "name": "Prof. Ahmed Toure",
+    "role": "Spécialiste en éducation",
+    "institution": "Université de Bamako, Mali",
+    "bio": "Prof. Toure est pionnier dans l'intégration des technologies numériques dans l'éducation en Afrique de l'Ouest. Il dirige plusieurs programmes innovants dans les écoles maliennes.",
+    "photo": "https://example.com/photos/ahmed_toure.jpg",
+    "social": {
+      "twitter": "@AhmedToureEdu",
+      "linkedin": "ahmed-toure-education"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker10",
+    "name": "Dr. Marie Leroy",
+    "role": "Experte en EdTech",
+    "institution": "EdTech France",
+    "bio": "Dr. Leroy développe des solutions éducatives adaptées aux contextes africains. Elle a fondé plusieurs startups dans le domaine de l'éducation et collabore avec de nombreuses écoles en Afrique francophone.",
+    "photo": "https://example.com/photos/marie_leroy.jpg",
+    "social": {
+      "twitter": "@MarieLeroyEdTech",
+      "linkedin": "marie-leroy-edtech"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker11",
+    "name": "Prof. Mamadou Ndiaye",
+    "role": "Directeur de recherche",
+    "institution": "Université Gaston Berger, Sénégal",
+    "bio": "Prof. Ndiaye coordonne plusieurs programmes de coopération scientifique entre la France et le Sénégal. Il est auteur de nombreuses publications sur la politique scientifique africaine.",
+    "photo": "https://example.com/photos/mamadou_ndiaye.jpg",
+    "social": {
+      "linkedin": "mamadou-ndiaye-research"
+    },
+    "featured": true
+  },
+  {
+    "id": "speaker12",
+    "name": "Dr. François Moreau",
+    "role": "Conseiller scientifique",
+    "institution": "Ministère de l'Enseignement Supérieur, France",
+    "bio": "Dr. Moreau supervise les programmes de coopération scientifique avec l'Afrique. Il a contribué à la mise en place de nombreux accords bilatéraux entre universités françaises et africaines.",
+    "photo": "https://example.com/photos/francois_moreau.jpg",
+    "social": {
+      "linkedin": "francois-moreau-science"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker13",
+    "name": "Mme. Aïcha Bah",
+    "role": "Conseillère en financement",
+    "institution": "Banque Africaine de Développement",
+    "bio": "Mme. Bah est spécialisée dans le financement de projets de recherche en Afrique. Elle aide les chercheurs à identifier les sources de financement et à préparer des dossiers compétitifs.",
+    "photo": "https://example.com/photos/aicha_bah.jpg",
+    "social": {
+      "linkedin": "aicha-bah-funding"
+    },
+    "featured": false
+  },
+  {
+    "id": "speaker14",
+    "name": "M. Pierre Lambert",
+    "role": "Directeur de programme",
+    "institution": "Agence Française de Développement",
+    "bio": "M. Lambert supervise les programmes de financement de la recherche scientifique en Afrique pour l'AFD. Il a une grande expérience dans l'évaluation de projets scientifiques et leur impact sociétal.",
+    "photo": "https://example.com/photos/pierre_lambert.jpg",
+    "social": {
+      "twitter": "@PierreLambertAFD",
+      "linkedin": "pierre-lambert-afd"
+    },
+    "featured": false
+  }
+] 

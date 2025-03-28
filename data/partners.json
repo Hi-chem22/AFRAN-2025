@@ -1,0 +1,82 @@
+[
+  {
+    "name": "UNESCO",
+    "description": "L'Organisation des Nations unies pour l'éducation, la science et la culture soutient les initiatives scientifiques internationales.",
+    "logo": "https://example.com/logos/unesco.png",
+    "website": "https://www.unesco.org",
+    "type": "international",
+    "featured": true
+  },
+  {
+    "name": "CNRS",
+    "description": "Le Centre National de la Recherche Scientifique est un organisme public français de recherche scientifique.",
+    "logo": "https://example.com/logos/cnrs.png",
+    "website": "https://www.cnrs.fr",
+    "type": "research",
+    "featured": true
+  },
+  {
+    "name": "Université Cheikh Anta Diop",
+    "description": "L'une des plus prestigieuses universités d'Afrique de l'Ouest, basée à Dakar au Sénégal.",
+    "logo": "https://example.com/logos/ucad.png",
+    "website": "https://www.ucad.sn",
+    "type": "academic",
+    "featured": true
+  },
+  {
+    "name": "Université Mohammed VI Polytechnique",
+    "description": "Université marocaine axée sur la recherche et l'innovation, particulièrement dans les domaines techniques et scientifiques.",
+    "logo": "https://example.com/logos/um6p.png",
+    "website": "https://www.um6p.ma",
+    "type": "academic",
+    "featured": false
+  },
+  {
+    "name": "Institut de Recherche pour le Développement",
+    "description": "L'IRD est un organisme français de recherche qui travaille principalement dans les pays du Sud.",
+    "logo": "https://example.com/logos/ird.png",
+    "website": "https://www.ird.fr",
+    "type": "research",
+    "featured": false
+  },
+  {
+    "name": "Fondation Bill & Melinda Gates",
+    "description": "Fondation privée soutenant des projets de santé publique, d'éducation et de développement en Afrique.",
+    "logo": "https://example.com/logos/gates.png",
+    "website": "https://www.gatesfoundation.org",
+    "type": "foundation",
+    "featured": true
+  },
+  {
+    "name": "Union Africaine",
+    "description": "Organisation continentale africaine visant à promouvoir l'unité et la solidarité entre les États africains.",
+    "logo": "https://example.com/logos/ua.png",
+    "website": "https://au.int",
+    "type": "international",
+    "featured": false
+  },
+  {
+    "name": "Institut Africain des Sciences Mathématiques",
+    "description": "Centre d'excellence panafricain pour l'enseignement des mathématiques et des sciences.",
+    "logo": "https://example.com/logos/aims.png",
+    "website": "https://www.nexteinstein.org",
+    "type": "academic",
+    "featured": false
+  },
+  {
+    "name": "Campus France",
+    "description": "Agence française pour la promotion de l'enseignement supérieur, l'accueil et la mobilité internationale.",
+    "logo": "https://example.com/logos/campus-france.png",
+    "website": "https://www.campusfrance.org",
+    "type": "governmental",
+    "featured": false
+  },
+  {
+    "name": "Organisation Internationale de la Francophonie",
+    "description": "Institution promouvant la langue française et la coopération culturelle et scientifique entre les pays francophones.",
+    "logo": "https://example.com/logos/oif.png",
+    "website": "https://www.francophonie.org",
+    "type": "international",
+    "featured": true
+  }
+] 
